@@ -10,7 +10,7 @@
 <body>
 
 <div style="display:flex;align-items:center;gap:12px;margin-bottom:10px">
-  <img src="assets/tdl.png" alt="App Logo" style="width:50px;height:auto" />
+  <img src="tdl.png" alt="App Logo" style="width:50px;height:auto" />
   <h1>Trip Data Logger</h1>
 </div>
 

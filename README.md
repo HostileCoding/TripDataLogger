@@ -14,20 +14,11 @@ To set up a web server with PHP and MySQL support, follow this comprehensive tut
 
 ### Step 2: Configure Database Connection
 1. Locate the `db.php` file in the project directory.
-2. Update the file to point to your MySQL database. Here’s the configuration you should use:
-
-   ```php
-   <?php
-   // MySQL database connection
-   $conn = new mysqli('DB_HOST', 'DB_USERNAME', 'DB_PASSWORD', 'DB_NAME');
-   if ($conn->connect_error) {
-       die("Connection failed: " . $conn->connect_error);
-   }
-   ?>
+2. Update the file to point to your MySQL database.
 
 Replace DB_HOST, DB_USERNAME, DB_PASSWORD, and DB_NAME with your actual database credentials.
 
-Usage
+## Usage
 Import your CSV files from the Volvo App.
 Analyze and visualize your trip data through the web interface.
 Contributing

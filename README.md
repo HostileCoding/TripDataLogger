@@ -1,7 +1,17 @@
 # Trip Data Logger
 
 ## Overview
-Trip Data Logger is a web application that allows users to import CSV files from the Volvo App, organize trip data, and perform analytics to view driving statistics. 
+Trip Data Logger is a web application that allows users to import CSV files from the Volvo App, organize trip data, and perform analytics to view driving statistics.
+
+## Donate
+
+If you find this project helpful and would like to support its development, consider buying me a coffee! Your support is greatly appreciated.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/HostileCoding)
+
+Or click here: [https://www.paypal.me/HostileCoding](https://www.paypal.me/HostileCoding)
+
+Thank you for your support! ❤️
 
 ## Features
 
